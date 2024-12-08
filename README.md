@@ -17,5 +17,5 @@
 ### 1. Clone the Repository  
 
 ```bash  
-git clone https://github.com/your-username/spam-email-classifier.git  
-cd spam-email-classifier  
+git clone https://github.com/Shayak1010/Spam-Mail-Classification-using-NLP-and-ML.git
+cd Spam-Mail-Classification-using-NLP-and-ML
